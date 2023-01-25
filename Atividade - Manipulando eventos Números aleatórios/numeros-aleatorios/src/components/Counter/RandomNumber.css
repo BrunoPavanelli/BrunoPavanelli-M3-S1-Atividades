@@ -1,0 +1,12 @@
+.counter__div {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.number__btn {
+    text-align: center;
+    width: 200px;
+    height: 70px;
+    background-color: blueviolet;
+}
